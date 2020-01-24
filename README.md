@@ -1,5 +1,5 @@
-# hello-world
+# Welcome to my Page!
 
-Hello, 
+My name is Mason Lipford, I am a rising Senior at Mount Saint Mary's University.
 
-My name is Mason, I am a rising Senior at Mount Saint Mary's University. I am currently an intern at Oasys. 
+This is my GitHub that contains all of my valuable code that I have built throughout my time in school during my internship. 
