@@ -42,7 +42,7 @@ X_train, X_test, y_train, y_test = train_test_split(modifiedDataset_features, mo
 knn = KNeighborsClassifier(n_neighbors = 7)
 knn.fit(X_train, y_train)
 pred = knn.predict(X_test) #gets the prediction using the classifier
-print(knn.score(X_test, y_test))
+print("KNN Score: ", knn.score(X_test, y_test))
 
 
 """ Confusion matrix """
